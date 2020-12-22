@@ -23,6 +23,6 @@ Você tem liberdade para escolher a estilização que preferir para esse desafio
 
 :white_check_mark: Os links devem ter um espaçamento de 30px entre si
 
-<h3 align="center">
+<p align="center">
   Feito com :purple_heart: por Thaísa Elvas :)
-</h3>
+</p>
