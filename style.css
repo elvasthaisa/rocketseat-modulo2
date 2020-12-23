@@ -98,3 +98,26 @@ li a:hover {
 footer {
     margin-top: 45px;
 }
+
+/**** Media Queries ****/
+
+@media (min-width: 769px) {
+    #menu {
+        display: flex;
+    }
+}
+
+@media (max-width: 769px) {
+    body {
+        background-color: var(--background-color);
+    }
+
+    #menu {
+        text-align: center;
+		display: block;
+    }
+
+    #about {
+        margin: 0 40px;
+    }
+}
